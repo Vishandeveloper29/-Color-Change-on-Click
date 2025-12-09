@@ -1,2 +1,1 @@
-# -Color-Change-on-Click
-Create a web page with one button.  When the button is clicked, the background color changes.  Use HTML, CSS, and JavaScript.  Keep it simple and functional.
+Write a small project where clicking a button changes the background color of the webpage. Keep the design simple, clean, and easy to understand using HTML, CSS, and JavaScript.
